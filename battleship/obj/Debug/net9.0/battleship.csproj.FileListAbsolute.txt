@@ -1,0 +1,14 @@
+C:\Users\kaede\Documents\Coding\C#\battleship\battleship\bin\Debug\net9.0\battleship.exe
+C:\Users\kaede\Documents\Coding\C#\battleship\battleship\bin\Debug\net9.0\battleship.deps.json
+C:\Users\kaede\Documents\Coding\C#\battleship\battleship\bin\Debug\net9.0\battleship.runtimeconfig.json
+C:\Users\kaede\Documents\Coding\C#\battleship\battleship\bin\Debug\net9.0\battleship.dll
+C:\Users\kaede\Documents\Coding\C#\battleship\battleship\bin\Debug\net9.0\battleship.pdb
+C:\Users\kaede\Documents\Coding\C#\battleship\battleship\obj\Debug\net9.0\battleship.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaede\Documents\Coding\C#\battleship\battleship\obj\Debug\net9.0\battleship.AssemblyInfoInputs.cache
+C:\Users\kaede\Documents\Coding\C#\battleship\battleship\obj\Debug\net9.0\battleship.AssemblyInfo.cs
+C:\Users\kaede\Documents\Coding\C#\battleship\battleship\obj\Debug\net9.0\battleship.csproj.CoreCompileInputs.cache
+C:\Users\kaede\Documents\Coding\C#\battleship\battleship\obj\Debug\net9.0\battleship.dll
+C:\Users\kaede\Documents\Coding\C#\battleship\battleship\obj\Debug\net9.0\refint\battleship.dll
+C:\Users\kaede\Documents\Coding\C#\battleship\battleship\obj\Debug\net9.0\battleship.pdb
+C:\Users\kaede\Documents\Coding\C#\battleship\battleship\obj\Debug\net9.0\battleship.genruntimeconfig.cache
+C:\Users\kaede\Documents\Coding\C#\battleship\battleship\obj\Debug\net9.0\ref\battleship.dll
